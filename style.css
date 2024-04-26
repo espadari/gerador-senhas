@@ -1,7 +1,7 @@
 
 
 :root{
-    --branco: rgba(135, 74, 214, 0.774);
+    --branco: rgba(43, 77, 230, 0.774);
     --cor-de-fundo: #ab85ddb0;
     --fundo-senha: #00244D;
     --fundo-texto: #001E40;
@@ -11,4 +11,9 @@
 body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
+}
+
+.conteudo-titulo{
+    text-aglin: center;
+    margin-top: 80px;
 }
