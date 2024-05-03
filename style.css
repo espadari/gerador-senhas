@@ -43,3 +43,17 @@ body{
     font-size: 40px;
     width: 70%;
 }
+
+#campo-senha{
+    font-size: 40px;
+    width: 70%;
+}
+
+#campo-senha:focus{
+    outline: none;
+}
+
+.conteudo{
+    max-width: 1200px;
+    margin: 0 auto;
+}
